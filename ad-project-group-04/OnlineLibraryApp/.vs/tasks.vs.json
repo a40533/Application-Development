@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-OnlineLibrary",
+      "appliesTo": "OnlineLibrary.Infrastructure/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-UnitOfWork",
+      "appliesTo": "OnlineLibrary.Infrastructure/UnitOfWork.cs",
+      "type": "launch"
+    }
+  ]
+}

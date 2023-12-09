@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZ9nYyo8R87MjLkx2YzvcSSVOvgKY+xNlVSvGK0GrJeLwsfyJrYcs/0sC+R64BjZjTn6zBHI0gf8NU4snkqljQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suraj\\Projects\\Application Development\\ad-project-group-04\\OnlineLibraryApp\\OnlineLibrary.Domain\\OnlineLibrary.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suraj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\suraj\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.csproj.AssemblyReference.cache
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.AssemblyInfo.cs
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\bin\Debug\netstandard2.0\OnlineLibrary.Domain.deps.json
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\bin\Debug\netstandard2.0\OnlineLibrary.Domain.dll
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\bin\Debug\netstandard2.0\OnlineLibrary.Domain.pdb
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.dll
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.pdb

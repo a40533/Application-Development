@@ -1,0 +1,13 @@
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\obj\Debug\netstandard2.0\OnlineLibrary.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\obj\Debug\netstandard2.0\OnlineLibrary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\obj\Debug\netstandard2.0\OnlineLibrary.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\obj\Debug\netstandard2.0\OnlineLibrary.Infrastructure.AssemblyInfo.cs
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\obj\Debug\netstandard2.0\OnlineLibrary.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\bin\Debug\netstandard2.0\OnlineLibrary.Infrastructure.deps.json
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\bin\Debug\netstandard2.0\OnlineLibrary.Infrastructure.dll
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\bin\Debug\netstandard2.0\OnlineLibrary.Infrastructure.pdb
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\bin\Debug\netstandard2.0\OnlineLibrary.Domain.dll
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\bin\Debug\netstandard2.0\OnlineLibrary.Domain.pdb
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\obj\Debug\netstandard2.0\OnlineLibrary.Infrastructure.csproj.CopyComplete
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\obj\Debug\netstandard2.0\OnlineLibrary.Infrastructure.dll
+C:\Users\suraj\OneDrive\Desktop\AD\ad-project-group-04\OnlineLibraryApp\OnlineLibrary.Infrastructure\obj\Debug\netstandard2.0\OnlineLibrary.Infrastructure.pdb

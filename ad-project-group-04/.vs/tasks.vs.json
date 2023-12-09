@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ad-project-group-04",
+      "appliesTo": "OnlineLibraryApp/ad-project-group-04.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-OnlineLibraryApp",
+      "appliesTo": "OnlineLibraryApp/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-ad-project-group-04",
+      "appliesTo": "OnlineLibraryApp/ad-project-group-04.sln",
+      "type": "launch"
+    }
+  ]
+}
